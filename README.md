@@ -1,2 +1,2 @@
 # image-cdn-bolean
-image cdn bolean
+image cdn bol
